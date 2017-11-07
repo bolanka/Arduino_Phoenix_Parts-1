@@ -1,3 +1,15 @@
+INFO
+====
+I've crerated my own Phonix made of beech ply wood. You'll find it on instructables. My personal target is to make my own experiences and learn something new.
+
+This code is based on the translated Phoenix code by KurtE's and I've started to do some changes and extensions.
+
+planned changes:
+* Support for PS3 controller (using USB host)
+* some code clean-up
+* adding some sensors and actuators like voltage, current, 6-axis IMU, turret with ultra sonic, IR distance sensors, ...
+* data logging (SD-card)
+
 Warning
 =======
 There are no warrantees or Guarantees of any type that this code is useable for anything.  
@@ -54,7 +66,7 @@ c:\users\kurt\My Documents\Arduino\libraries.
 In the Phoenix library there are several examples of configurations.  
 
 Once these directories are installed, you can simply go to the file menu, Choose the Examples menu item, then
-in this sub-menu there should be a menu item Phoenix, which when chosen, should give you several configurations…
+in this sub-menu there should be a menu item Phoenix, which when chosen, should give you several configurationsâ€¦
 
 Once you load a configuration that is either your configuration or the one closest to it, you can then save this
 sketch into your own sketchbook and make any modifications that are necessary or desired to make your robot
@@ -236,7 +248,7 @@ Kare Halvorsen (aka Zenta) -  The Lynxmotion Phoenix was based on the original P
 him.  In addition a lot of the software was based off of his earlier Excel spreadsheet (PEP).  More details up on his 
 Project page (http://www.lynxmotion.com/images/html/proj098.htm).
 
-Me - I later ported the code to C/C++ and the Arduino environment and with the help of Kåre and Jeroen hopefully 
+Me - I later ported the code to C/C++ and the Arduino environment and with the help of KÃ¥re and Jeroen hopefully 
 reduced the number of bugs I introduced as part of this port.   
 
 Michael E. Ferguson (lnxfergy up on Trossen) - Arbotix Commander, Ax12.
